@@ -28,3 +28,7 @@ HTML5 — Estructura del contenido.
 CSS3 — Estilos, animaciones y diseño responsivo.
 JavaScript (ES6) — Lógica y manejo de datos.
 RAWG API — Fuente de datos de videojuegos.
+**Vista funcional**
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/02b0eedc-f317-4086-bc31-0c8c86de5408" />
+<img width="934" height="862" alt="image" src="https://github.com/user-attachments/assets/eb91f7cd-9249-401a-8854-d4dc07d67c3e" />
+
