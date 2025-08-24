@@ -3,7 +3,8 @@ Ubisoft — Juegos por Salir (Web API con RAWG)
 Aplicación web que muestra una lista actualizada de juegos próximos a lanzarse desarrollados por Ubisoft, consumiendo datos directamente desde la API de RAWG.io.
 Su diseño es moderno, con esquema oscuro, optimizado para ser responsivo y accesible.
 **Vista Previa**
-<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/e63ac777-90f6-43ed-af0b-47915824913d" />
+<img width="1883" height="940" alt="image" src="https://github.com/user-attachments/assets/75f9befe-23df-48c0-8124-7701340a5ac5" />
+
 **Características**
 1. Consulta en tiempo real a la API pública de RAWG.
 2. Filtrado automático para mostrar solo los juegos de Ubisoft.
